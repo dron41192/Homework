@@ -1,0 +1,11 @@
+[t7]
+FileName1=t7_en-US.5a60a9c949bd357a70c381ad809aa1f5ba3f9a3e.ag.html
+URL1=https://tiles-cloudfront.cdn.mozilla.net/desktop/STAR/en-US.5a60a9c949bd357a70c381ad809aa1f5ba3f9a3e.ag.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

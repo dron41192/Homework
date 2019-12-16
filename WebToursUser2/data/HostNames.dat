@@ -1,0 +1,11 @@
+[hosts]
+127.0.0.1=
+search.services.mozilla.com=
+tiles.services.mozilla.com=
+self-repair.mozilla.org=
+safebrowsing.google.com=
+ocsp.digicert.com=
+tiles-cloudfront.cdn.mozilla.net=
+aus4.mozilla.org=
+fhr.data.mozilla.com=
+ocsp.pki.goog=

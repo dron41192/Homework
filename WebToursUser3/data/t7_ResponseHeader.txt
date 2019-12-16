@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 1997
+Connection: keep-alive
+Date: Tue, 26 Nov 2019 10:12:51 GMT
+Last-Modified: Tue, 07 Nov 2017 19:39:25 GMT
+ETag: "cf98cbf47cb8babaa3af375784249cfc"
+Cache-Control: public, max-age=31536000
+Content-Disposition: inline
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 ea2e21f6a5c3ec2f96b0dac1b769e00e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA50-C1
+X-Amz-Cf-Id: YInK0J_azNTds0MXbJbnPB3gxJxlIGNe7twpSnjWBtwHnRwZBr3Opw==
+Age: 1645777
+

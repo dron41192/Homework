@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-gmpopenh264" URL="http://ciscobinary.openh264.org/openh264-win32-2706e36bf0a8b7c539c803ed877148c005ffca59.zip" hashFunction="sha512" hashValue="45124a776054dcfc81bfc65ad4ff85bd65113900c86f98b70917c695cd9d8924d9b0878da39d14b2af5708029bc0346be6d7d92f1d856443b3051f0d3180894d" size="341180" version="1.5.3"/>
+    </addons>
+</updates>

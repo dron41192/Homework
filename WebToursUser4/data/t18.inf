@@ -1,0 +1,11 @@
+[t18]
+FileName1=t18.html
+URL1=http://ocsp.pki.goog/gts1o1
+Total=1
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=t18_RequestBody.txt
+ResponseHeaderFile=t18_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_18.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

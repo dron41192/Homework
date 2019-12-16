@@ -1,0 +1,11 @@
+[t29]
+FileName1=t29.html
+URL1=http://ocsp.digicert.com/
+Total=1
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=t29_RequestBody.txt
+ResponseHeaderFile=t29_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_29.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

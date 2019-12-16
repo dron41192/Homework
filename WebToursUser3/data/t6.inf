@@ -1,0 +1,15 @@
+[t6]
+FileName1=t6.html
+URL1=http://ocsp.digicert.com/
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=t6_RequestBody.txt
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6f0.htm
+URL2=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

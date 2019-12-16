@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 292
+Connection: keep-alive
+Server: nginx/1.15.4
+Date: Tue, 10 Dec 2019 01:13:25 GMT
+Cache-Control: public, max-age=604800
+Content-Security-Policy: base-uri 'none'; worker-src 'none'; block-all-mixed-content; form-action 'self'; default-src 'self' https://normandy.cdn.mozilla.net/; object-src 'none'; frame-src 'none'; report-uri /__cspreport__
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google, 1.1 03d509e8374e9f42668961b5e0201349.cloudfront.net (CloudFront)
+Alt-Svc: clear
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: FRA2-C2
+X-Amz-Cf-Id: aGfefky53zKB-qK7wPE-fWMQeDz0rv7zbLcsAyNOHtEs7Okj1uTQ6Q==
+Age: 469834
+

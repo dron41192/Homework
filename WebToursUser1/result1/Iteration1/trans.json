@@ -1,0 +1,37 @@
+[
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1576508329348,
+        "rawEndTime": 1576508333562
+    },
+    {
+        "transactionName": "Select_flights",
+        "rawStartTime": 1576508333740,
+        "rawEndTime": 1576508334187
+    },
+    {
+        "transactionName": "Filling_fields",
+        "rawStartTime": 1576508334472,
+        "rawEndTime": 1576508335745
+    },
+    {
+        "transactionName": "Filling_payment_fields",
+        "rawStartTime": 1576508335853,
+        "rawEndTime": 1576508336044
+    },
+    {
+        "transactionName": "Select_itinerary",
+        "rawStartTime": 1576508336433,
+        "rawEndTime": 1576508339628
+    },
+    {
+        "transactionName": "Select_sign_off",
+        "rawStartTime": 1576508339755,
+        "rawEndTime": 1576508342239
+    },
+    {
+        "transactionName": "Ticket_from_London_to_Paris",
+        "rawStartTime": 1576508328773,
+        "rawEndTime": 1576508342374
+    }
+]

@@ -1,0 +1,15 @@
+[t16]
+FileName1=t16.htm
+URL1=http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true
+Total=2
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t16_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_16.xml
+FileName2=t16f0.htm
+URL2=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+GET /update/3/GMP/40.0.3/20150826023504/WINNT_x86-msvc/en-US/release/Windows_NT%2010.0.0.0%20(x64)/default/default/update.xml HTTP/1.1
+Host: aus4.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+

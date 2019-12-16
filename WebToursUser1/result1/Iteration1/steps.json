@@ -1,0 +1,44 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Submit Data: login.pl",
+        "infFile": "t2.inf",
+        "time": 1576508333561
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: welcome.pl_2",
+        "infFile": "t3.inf",
+        "time": 1576508334185
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Submit Data: reservations.pl",
+        "infFile": "t4.inf",
+        "time": 1576508335576
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Submit Data: reservations.pl_2",
+        "infFile": "t5.inf",
+        "time": 1576508335744
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Submit Data: reservations.pl_3",
+        "infFile": "t6.inf",
+        "time": 1576508336043
+    },
+    {
+        "stepId": "STEP6",
+        "stepName": "Url: Itinerary Button",
+        "infFile": "t7.inf",
+        "time": 1576508339626
+    },
+    {
+        "stepId": "STEP7",
+        "stepName": "Url: SignOff Button",
+        "infFile": "t8.inf",
+        "time": 1576508342237
+    }
+]

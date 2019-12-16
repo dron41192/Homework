@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\dron4\Desktop\Новая папка\WebToursUser1
+-IE:\Loadrun\include
+-ec:\users\dron4\desktop\новая папка\webtoursuser1\\logfile.log
+c:\users\dron4\desktop\новая папка\webtoursuser1\\combined_WebToursUser1.c
+c:\users\dron4\desktop\новая папка\webtoursuser1\\pre_cci.c

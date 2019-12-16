@@ -1,0 +1,13 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2019/12/15 11:24:54
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2019/12/15 11:29:34
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2019/12/15 11:34:15
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2019/12/15 11:46:50
+StartRecordingIsDst_4=0
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+[Security]
+UsingPersistForAuthentication=1

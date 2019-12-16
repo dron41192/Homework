@@ -1,0 +1,13 @@
+POST /1.0/submit/metrics/cf6d63e8-286c-4c9b-b6f9-950776ae61ba HTTP/1.1
+Host: fhr.data.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+x-obsolete-document: c3a6d669-6d88-4c53-b26e-e3294598fac6
+Content-Type: application/json+zlib; charset=utf-8
+Content-Length: 1675
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
